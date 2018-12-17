@@ -1,0 +1,10 @@
+C:\Users\drops\Source\Repos\Epam_homework\Massivum+\Massivum+\bin\Debug\netcoreapp2.1\Massivum+.deps.json
+C:\Users\drops\Source\Repos\Epam_homework\Massivum+\Massivum+\bin\Debug\netcoreapp2.1\Massivum+.runtimeconfig.json
+C:\Users\drops\Source\Repos\Epam_homework\Massivum+\Massivum+\bin\Debug\netcoreapp2.1\Massivum+.runtimeconfig.dev.json
+C:\Users\drops\Source\Repos\Epam_homework\Massivum+\Massivum+\bin\Debug\netcoreapp2.1\Massivum+.dll
+C:\Users\drops\Source\Repos\Epam_homework\Massivum+\Massivum+\bin\Debug\netcoreapp2.1\Massivum+.pdb
+C:\Users\drops\Source\Repos\Epam_homework\Massivum+\Massivum+\obj\Debug\netcoreapp2.1\Massivum+.csproj.CoreCompileInputs.cache
+C:\Users\drops\Source\Repos\Epam_homework\Massivum+\Massivum+\obj\Debug\netcoreapp2.1\Massivum+.AssemblyInfoInputs.cache
+C:\Users\drops\Source\Repos\Epam_homework\Massivum+\Massivum+\obj\Debug\netcoreapp2.1\Massivum+.AssemblyInfo.cs
+C:\Users\drops\Source\Repos\Epam_homework\Massivum+\Massivum+\obj\Debug\netcoreapp2.1\Massivum+.dll
+C:\Users\drops\Source\Repos\Epam_homework\Massivum+\Massivum+\obj\Debug\netcoreapp2.1\Massivum+.pdb
